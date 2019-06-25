@@ -26,8 +26,18 @@ Read the section titled [Terminal and Command Line](http://mod0.turing.io/sessio
 
 ### 3. Github
 
-Read the section titled [Create a Remote Repo on Github](http://mod0.turing.io/session4/#creating-a-remote-repo-on-github) and follow steps 1-7. When you come to step #5, do the ***…or create a new repository on the command line*** part instead. When finished, create a new file called `github.md` in this repo and write the URL of your new repo there. 
+Read the section titled [Create a Remote Repo on Github](http://mod0.turing.io/session4/#creating-a-remote-repo-on-github) and follow steps 1-4. You have just created an empty repo on Github. This remote repo is often called `origin` and the URL is stated on the page:
+
+![origin](https://res.cloudinary.com/yicf/image/upload/v1561476838/Code%20The%20Web/Screen_Shot_2019-06-25_at_10.31.54_PM.jpg)
+
+Then create a new directory inside your `Development` folder with the same name as your new Github repo. Go into it and continue to step #5. Now paste the commands listed in the ***…or create a new repository on the command line*** section — one command at a time. You have just pushed your local project to a remote repo.
+
+When finished, go back to the homework repo, and create a new file called `github.md` in and write the URL of your new repo there.
 
 ### 4. Forking
 
-Read the section titled [Forking](http://mod0.turing.io/session4/#forking) and do the exercise in the blue box labeled ***Try It: Forking*** (6 steps). Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, create a new file called `forking.md` in this repo and write the URL of your forked repo there. 
+Read the section titled [Forking](http://mod0.turing.io/session4/#forking) and do the exercise in the blue box labeled ***Try It: Forking*** (6 steps).
+
+In step #2, make sure to clone your fork into your `Development` folder, not into another already Git initialized project folder. Keep in mind that a good rule of thumb is: **1 remote repo = 1 local folder**.
+
+Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, create a new file called `forking.md` in this repo and write the URL of your forked repo there. 
