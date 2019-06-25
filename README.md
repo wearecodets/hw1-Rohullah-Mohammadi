@@ -40,4 +40,4 @@ Read the section titled [Forking](http://mod0.turing.io/session4/#forking) and d
 
 In step #2, make sure to clone your fork into your `Development` folder, not into another already Git initialized project folder. Keep in mind that a good rule of thumb is: **1 remote repo = 1 local folder**.
 
-Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, create a new file called `forking.md` in this repo and write the URL of your forked repo there. 
+Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, go back to the homework repo, and create a new file called `forking.md` and write the URL of your forked repo there. 
